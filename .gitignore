@@ -1,7 +1,4 @@
-**/bin/
-**/gen/
-*.apk
-**/.classpath
-**/.project
-*.class
-*.DS_Store
+.idea
+build
+local.properties
+*.iml
